@@ -1,0 +1,17 @@
+
+@import url(https://fonts.googleapis.com/css?family=Tangerine);
+body{
+  background-image: url("http://www.louisesparza.net/wp-content/uploads/2015/06/4.jpg");
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+.card{
+  color: navy;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  font-family: 'Tangerine', cursive;
+  font-size: 70px;
+  text-align: center;
+}
+.name{
+  color: tomato;
+}
